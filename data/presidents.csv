@@ -1,0 +1,143 @@
+id,name,photo,org_name,state,cost_of_living,start_term,base_comp,revenues_2014,days_employed_2014,tuition_fees_201415,enrollment
+0,Joseph A. Alutto,204796_14571.jpg,Ohio State University,Ohio,0.896,201307,634572,2854674173,184,10037,58322
+1,Elson S. Floyd,floyd_3875.jpg,Washington State University,Washington,1.032,200705,725000,921662039,2437,12428,28686
+2,Paula Allen-Meares,allen-meares_1158.jpg,University of Illinois at Chicago,Illinois,1.01,200901,422458,1877887288,1826,13634,27969
+3,Renu Khator,khator_3639.jpg,University of Houston,Texas,0.967,200801,700000,948745952,2192,8605,40914
+4,Robert L. Barchi,barchi_22204.jpg,Rutgers University at New Brunswick,New Jersey,1.145,201209,649624,2284387000,487,13813,48378
+5,Judy L. Genshaft,genshaft_845.jpg,University of South Florida,Florida,0.988,200007,470000,1038090336,4932,6410,41938
+6,Mary Sue Coleman,coleman_14784.jpg,University of Michigan at Ann Arbor,Michigan,0.942,200208,603357,4500602000,4171,13486,43625
+7,Eli Capilouto,capilouto_1430.jpg,University of Kentucky,Kentucky,0.891,201107,535500,1497398855,915,10616,29203
+8,Judy Bonner,bonner_63.jpg,University of Alabama at Tuscaloosa,Alabama,0.877,201211,565000,876199740,426,9826,36047
+9,Michael A. McRobbie,mcrobbie_1201.jpg,Indiana University at Bloomington,Indiana,0.914,200707,555745,1263487296,2376,10388,46416
+10,Samuel L. Stanley Jr.,stanley_2547.jpg,Stony Brook University,New York,1.153,200907,650000,950415222,1645,8430,24607
+11,Satish K. Tripathi,tripathi_2544.jpg,University at Buffalo,New York,1.153,201104,650000,936243254,1006,8870,29995
+12,Lou Anna K. Simon,simon_1811.jpg,Michigan State University,Michigan,0.942,200501,520000,2154480616,3287,13200,50081
+13,John C. Hitt,hitt_842.jpg,University of Central Florida,Florida,0.988,199203,491000,845429710,7976,6368,60767
+14,Lester A. Lefton,lefton_2831.jpg,Kent State University at Kent (Ohio),Ohio,0.896,200607,426156,525388883,2741,10012,29477
+15,Santa J. Ono,ono_22226.jpg,University of Cincinnati,Ohio,0.896,201210,525000,1017133849,457,11000,35313
+16,James R. Ramsey,ramsey_1446.jpg,University of Louisville,Kentucky,0.891,200211,624000,589741000,4079,10432,21561
+17,Michael K. Young,young_3682.jpg,University of Washington,Washington,1.032,201107,622008,3346490090,915,12394,44784
+18,Angel Cabrera,caberera_22177.jpg,George Mason University,Virginia,1.03,201207,536049,642906015,549,10382,33729
+19,Eric W. Kaler,kaler_1910.jpg,University of Minnesota-Twin Cities,Minnesota,0.976,201107,610000,2868600997,915,13560,51147
+20,Michael M. Crow,crow_93.jpg,Arizona State University,Arizona,0.971,200207,566200,1184234350,4202,10157,50320
+21,F. King Alexander,alexander_22187.jpg,Louisiana State University at Baton Rouge,Louisiana,0.912,201306,600000,889871947,214,8750,31044
+22,Ronald M. Berkman,berkman_2798.jpg,Cleveland State University,Ohio,0.896,200907,430000,311295541,1645,9686,16936
+23,David C. Hodge,hodge_2853.jpg,Miami University (Ohio),Ohio,0.896,200607,409209,485092056,2741,14287,18620
+24,Joel S. Bloom,bloom_22193.jpg,New Jersey Institute of Technology,New Jersey,1.145,201201,495000,400008000,731,15648,10646
+25,Mark B. Rosenberg,rosenberg_840.jpg,Florida International University,Florida,0.988,200908,502578,813566360,1614,6497,49610
+26,Susan Herbst,herbst_697.jpg,University of Connecticut,Connecticut,1.085,201105,525000,1506774204,976,12700,26541
+27,Robert A. Altenkirch,altenkirch_22221.jpg,University of Alabama at Huntsville,Alabama,0.877,201109,472000,208801549,853,9158,7348
+28,J. Bernard Machen,machen_843.jpg,University of Florida,Florida,0.988,200312,564553,2463049000,3684,6313,49459
+29,Michael Rao,rao_3777.jpg,Virginia Commonwealth University,Virginia,1.03,200907,503155,865200606,1645,12398,30848
+30,Ray Watts,watts_22220.jpg,University of Alabama at Birmingham,Alabama,0.877,201302,447550,1120886254,334,7510,18698
+31,Michael R. Gottfredson,gottfredson_22230.jpg,University of Oregon,Oregon,0.987,201208,444004,779478595,518,9918,24096
+32,LLoyd A. Jacobs,jacobs_2921.jpg,University of Toledo,Ohio,0.896,200311,392700,503889806,3714,9463,20626
+33,David E. Daniel,daniel_3652.jpg,University of Texas at Dallas,Texas,0.967,200506,518279,688865593,3136,10864,23095
+34,Harris Pastides,pastides_3344.jpg,University of South Carolina at Columbia,South Carolina,0.905,200808,531200,838487410,1979,11158,32971
+35,Mark P. Becker,becker_913.jpg,Georgia State University,Georgia,0.919,200901,530600,591247060,1826,8618,32556
+36,Phyllis M. Wise,wise_3869.jpg,University of Illinois at Urbana-Champaign,Illinois,1.01,201110,530501,2366647420,823,15020,45140
+37,Wallace D. Loh,loh_1612.jpg,University of Maryland at College Park,Maryland,1.109,201011,526590,1464916824,1157,9427,37610
+38,W. Randolph Woodson,woodson_2731.jpg,North Carolina State University,North Carolina,0.917,201004,520000,1250491664,1371,8296,33989
+39,Carol L. Folt,199120_10926.jpg,University of North Carolina at Chapel Hill,North Carolina,0.917,201307,520000,2284958065,184,8336,29135
+40,David R. Hopkins,hopkins_2932.jpg,Wright State University,Ohio,0.896,200702,416000,364482034,2526,8730,16842
+41,Sally K. Mason,mason_1291.jpg,University of Iowa,Iowa,0.903,200708,513003,1440269000,2345,8079,29970
+42,Harvey Stenger,stenger_2543.jpg,Binghamton University,New York,1.153,201201,510000,371584084,731,8620,16695
+43,Rebecca M. Blank,240444_17375.jpg,University of Wisconsin at Madison,Wisconsin,0.929,201307,499950,2435418415,184,10410,42598
+44,Jo Ann M. Gora,gora_1172.jpg,Ball State University,Indiana,0.914,200408,446338,403074003,3440,9344,20655
+45,Robert J. Jones,jones_22207.jpg,University at Albany,New York,1.153,201301,495000,754129529,365,8302,17273
+46,Teresa A. Sullivan,sullivan_8561.jpg,University of Virginia,Virginia,1.03,201008,494700,2021796812,1249,13208,23732
+47,Roderick J. McDavis,mcdavis_2881.jpg,Ohio University,Ohio,0.896,200407,431270,587613078,3471,10602,29217
+48,Bernadette Gray-Little,gray-little_1374.jpg,University of Kansas,Kansas,0.908,200908,492650,1022564129,1614,10448,27180
+49,Jay Gogue,gogue_6.jpg,Auburn University,Alabama,0.877,200707,487947,805999207,2376,10200,25912
+50,W. Taylor Reveley III,reveley_22173.jpg,College of William & Mary,Virginia,1.03,200809,425000,328125866,1948,17656,8437
+51,Nicholas B. Dirks,dirks_22223.jpg,University of California at Berkeley,California,1.123,201306,486800,2520293000,214,12972,37565
+52,Edward J. Ray,ray_3008.jpg,Oregon State University,Oregon,0.987,200306,485088,799429184,3867,9122,28886
+53,Vistasp Karbhari,karbhari_22219.jpg,University of Texas at Arlington,Texas,0.967,201306,484992,544483498,214,8878,39740
+54,Mark W. Huddleston,huddleston_2198.jpg,University of New Hampshire,New Hampshire,1.059,200706,385000,469410608,2406,16552,15117
+55,Mitchell E. Daniels Jr.,daniels_22202.jpg,Purdue University at West Lafayette,Indiana,0.914,201301,420000,1778337652,365,10002,39752
+56,Ann Weaver Hart,104179_10315.jpg,University of Arizona,Arizona,0.971,201207,475000,1641141000,549,10957,42236
+57,M. Roy Wilson,wilson_22241.jpg,Wayne State University,Michigan,0.942,201308,472251,775678881,153,11449,27578
+58,Anthony A. Frank,frank_602.jpg,Colorado State University at Fort Collins,Colorado,1.022,200906,450000,803099966,1675,9897,31354
+59,Steven Leath,leath_1290.jpg,Iowa State University,Iowa,0.903,201201,466752,981393670,731,7731,34435
+60,Kirk H. Schulz,schulz_1356.jpg,Kansas State University,Kansas,0.908,200905,460050,776237060,1706,9034,24766
+61,E. Thomas Sullivan,sullivan_22235.jpg,University of Vermont,Vermont,1.002,201207,429093,596401000,549,16226,12856
+62,Jere W. Morehead,139959_13966.jpg,University of Georgia,Georgia,0.919,201307,450000,1176356059,184,10836,35197
+63,Douglas D. Baker,147703_12194.jpg,Northern Illinois University,Illinois,1.01,201307,450000,492471584,184,13505,20611
+64,Mary Ellen Mazey,mazey_2778.jpg,Bowling Green State University Main Campus,Ohio,0.896,201107,394000,289058447,915,10726,16554
+65,Kumble R. Subbaswamy,subbaswamy_22229.jpg,University of Massachusetts at Amherst,Massachusetts,1.073,201207,406311,921326000,549,13443,28635
+66,G.P. (Bud) Peterson,peterson_907.jpg,Georgia Institute of Technology,Georgia,0.919,200904,440000,1313899695,1736,11394,23109
+67,David W. Pershing,pershing_3682.jpg,University of Utah,Utah,0.972,201203,358850,1466892000,671,7835,31515
+68,Thomas M. Apple,apple_971.jpg,University of Hawaii-Manoa,Hawaii,1.162,201206,439008,840547917,579,10620,19507
+69,Freeman A. Hrabowski III,hrabowski_1614.jpg,University of Maryland-Baltimore County,Maryland,1.109,199205,438025,356593272,7915,10384,13979
+70,David L. Boren,boren_2976.jpg,University of Oklahoma at Norman,Oklahoma,0.899,199411,434905,742000000,7001,9495,27261
+71,Jimmy G. Cheek,cheek_3463.jpg,University of Tennessee at Knoxville,Tennessee,0.906,200902,434452,1555569623,1795,11876,30386
+72,Harvey S. Perlman,perlman_2158.jpg,University of Nebraska at Lincoln,Nebraska,0.905,200104,349579,841624612,4658,8170,25006
+73,Daniel W. Jones,jones_1981.jpg,University of Mississippi,Mississippi,0.868,200907,429000,796113900,1645,7096,22503
+74,Mark E. Keenum,keenum_1970.jpg,Mississippi State University,Mississippi,0.868,200901,429000,610231677,1826,7140,20138
+75,M. Duane Nellis,nellis_994.jpg,Texas Tech University,Texas,0.967,201306,427000,722182195,214,7811,35158
+76,Gene D. Block,block_547.jpg,University of California at Los Angeles,California,1.123,200708,416000,3870592000,2345,12705,41845
+77,Pradeep K. Khosla,khosla_22225.jpg,University of California at San Diego,California,1.123,201208,411084,2366192000,518,13427,30709
+78,John M. Rudley,rudley_22215.jpg,Texas Southern University,Texas,0.967,200803,406640,191731514,2132,8126,9233
+79,Philip DiStefano,distefano_649.jpg,University of Colorado at Boulder,Colorado,1.022,200905,406505,1073907347,1706,10789,32432
+80,Leo E. Morton,morton_2086.jpg,University of Missouri at Kansas City,Missouri,0.892,200808,295545,319495321,1979,7774,16146
+81,Marinus Wilhelmus (Wim) Wiewel,wiewel_3009.jpg,Portland State University,Oregon,0.987,200808,401700,407089485,1979,7794,27696
+82,Elliot L. Hirshman,hirshman_253.jpg,San Diego State University,California,1.123,201107,400000,490784165,915,6866,33483
+83,Linda P.B. Katehi,katehi_544.jpg,University of California at Davis,California,1.123,200908,400000,2153541000,1614,13896,34508
+84,Kenneth R. Evans,evans_22184.jpg,Lamar University,Texas,0.967,201307,395000,192924227,184,7659,14895
+85,Thomas F. George,george_2088.jpg,University of Missouri at St. Louis,Missouri,0.892,200309,314447,211982727,3775,8844,17072
+86,Michael V. Drake,drake_546.jpg,University of California at Irvine,California,1.123,200507,392000,1775357000,3106,13179,30051
+87,Diana S. Natalicio,natalicio_3653.jpg,University of Texas at El Paso,Texas,0.967,198802,391755,416817316,9466,7259,23079
+88,Dana G. Hoyt,gibson_3628.jpg,Sam Houston State University,Texas,0.967,201009,387972,277578843,1218,7294,19573
+89,Ricardo Romo,romo_3655.jpg,University of Texas at San Antonio,Texas,0.967,199908,385130,510059897,5267,7457,28628
+90,Garrey E. Carruthers,188030_12749.jpg,New Mexico State University at Las Cruces,New Mexico,0.95,201306,385000,443619601,214,5950,15829
+91,Judith A. Bense,bense_847.jpg,University of West Florida,Florida,0.988,200807,307163,191407997,2010,6360,12602
+92,Myles W. Scoggins,126775_16607.jpg,Colorado School of Mines,Colorado,1.022,200606,380000,227613393,2771,16918,5962
+93,John M. Dunn,dunn_1847.jpg,Western Michigan University,Michigan,0.942,200707,377390,490404406,2376,10685,23914
+94,Martin T. Meehan,meehan_1682.jpg,University of Massachusetts at Lowell,Massachusetts,1.073,200707,314996,325557000,2376,12447,17179
+95,Rodney D. Bennett,176372_18020.jpg,University of Southern Mississippi,Mississippi,0.868,201304,375000,318735156,275,6980,14792
+96,John R. Broderick,broderick_3762.jpg,Old Dominion University,Virginia,1.03,200806,368494,349167783,2040,8970,24932
+97,Donald M. Elliman,elliman_651.jpg,University of Colorado at Denver,Colorado,1.022,201204,371700,976557706,640,8500,22791
+98,George E. Ross,ross_1772.jpg,Central Michigan University,Michigan,0.942,201003,367640,393379955,1402,11550,26879
+99,Marc A. Johnson,johnson_2174.jpg,University of Nevada at Reno,Nevada,0.982,201105,366424,558535396,976,6610,19934
+100,Robert G. Frank,frank_2303.jpg,University of New Mexico,New Mexico,0.95,201206,358550,1187020759,579,6846,27844
+101,Arthur C. Vailas,vailas_988.jpg,Idaho State University,Idaho,0.928,200607,357029,230405514,2741,6566,13429
+102,Brooks A. Keel,keel_911.jpg,Georgia Southern University,Georgia,0.919,201001,355600,253873035,1461,6170,20517
+103,Rita Cheng,cheng_1145.jpg,Southern Illinois University at Carbondale,Illinois,1.01,201006,354936,691595101,1310,12248,17989
+104,David L. Chicoine,chicoine_3377.jpg,South Dakota State University,South Dakota,0.876,200701,354567,279127538,2557,7713,12543
+105,James W. Abbott,abbott_22232.jpg,University of South Dakota,South Dakota,0.876,200607,354567,185039841,2741,8022,10061
+106,Robert O. Kelley,kelley_2749.jpg,University of North Dakota,North Dakota,0.914,200807,350265,429935542,2010,7741,14906
+107,Leslie K. Guice,,Louisiana Tech University,Louisiana,0.912,201307,350000,142919950,184,8052,11225
+108,V. Burns Hargis,hargis_2957.jpg,Oklahoma State University at Stillwater,Oklahoma,0.899,200803,350000,679410280,2132,7442,25962
+109,Joseph Savoie,savoie_1530.jpg,University of Louisiana at Lafayette,Louisiana,0.912,200807,350000,223417856,2010,6872,17195
+110,John W. Bardo,bardo_22244.jpg,Wichita State University,Kansas,0.908,201206,345000,258016038,579,7265,14995
+111,J. Keith Motley,motley_1680.jpg,University of Massachusetts at Boston,Massachusetts,1.073,200707,287340,396856000,2376,11966,16756
+112,Flavius Killebrew,killebrew_3605.jpg,Texas A&M University at Corpus Christi,Texas,0.967,200501,284560,194030162,3287,7655,11256
+113,Dean L. Bresciani,bresciani_2754.jpg,North Dakota State University,North Dakota,0.914,201006,334215,371278302,1310,7940,14747
+114,Charles R. Bantz,bantz_1207.jpg,Indiana University-Purdue University at Indianapolis,Indiana,0.914,200301,330191,1163781526,4018,8909,30690
+115,G. David Gearhart,gearhart_178.jpg,University of Arkansas at Fayetteville,Arkansas,0.875,200807,329450,667142937,2010,8210,26237
+116,David M. Dooley,dooley_3294.jpg,University of Rhode Island,Rhode Island,0.981,200907,330000,398369882,1645,12506,16571
+117,Dan R. Jones,224554_11393.jpg,Texas A&M University at Commerce,Texas,0.967,200807,280000,165029518,2010,5892,12111
+118,Sidney A. McPhee,mcphee_3437.jpg,Middle Tennessee State University,Tennessee,0.906,200108,326276,369252561,4536,7876,22729
+119,Stan L. Albrecht,albrecht_3684.jpg,Utah State University,Utah,0.972,200502,325774,618822362,3256,6250,27662
+120,Peter J. Fos,fos_1470.jpg,University of New Orleans,Louisiana,0.912,201201,325000,144456907,731,7392,9234
+121,Philip L. Dubois,dubois_2734.jpg,University of North Carolina at Charlotte,North Carolina,0.917,200507,324450,492238827,3106,6277,27238
+122,Steven C. Ballard,ballard_2725.jpg,East Carolina University,North Carolina,0.917,200405,322560,582557949,3532,6143,27511
+123,Harold L. Martin,martin_2728.jpg,North Carolina Agricultural and Technical State University,North Carolina,0.917,200906,320000,243224710,1675,5642,10725
+124,Linda P. Brady,brady_2735.jpg,University of North Carolina at Greensboro,North Carolina,0.917,200808,318780,372026156,1979,6454,18647
+125,Cheryl Bunnett Schrader,schrader_22191.jpg,Missouri University of Science and Technology,Missouri,0.892,201204,290000,199392337,640,8961,8640
+126,Henry T. Yang,yang_551.jpg,University of California at Santa Barbara,California,1.123,199406,315000,882712000,7154,13865,23051
+127,Glenn D. Mroz,mroz_22190.jpg,Michigan Technological University,Michigan,0.942,200403,315000,212231843,3593,14040,7099
+128,Brian D. Rogers,rogers_22222.jpg,University of Alaska at Fairbanks,Alaska,1.06,200805,313899,451009810,2071,5246,8620
+129,George R. Blumenthal,blumenthal_552.jpg,University of California at Santa Cruz,California,1.123,200709,310000,617227000,2314,13397,17866
+130,Steven H. Tallant,tallant_3607.jpg,Texas A&M University at Kingsville,Texas,0.967,200810,280000,257544749,1918,7554,13246
+131,Brian E. Noland,noland_3436.jpg,East Tennessee State University,Tennessee,0.906,201201,305415,313924795,731,7667,14434
+132,Mickey L. Burnim,burnim_22171.jpg,Bowie State University,Maryland,1.109,200609,295202,88636189,2679,7299,5695
+133,Royce C. Engstrom,engstrom_2116.jpg,University of Montana at Missoula,Montana,0.944,201010,294538,275825089,1188,6099,13952
+134,Waded Cruzado-Salas,cruzado-salas_2111.jpg,Montana State University at Bozeman,Montana,0.944,201001,294538,371915624,1461,6800,14982
+135,Kay Norton,norton_654.jpg,University of Northern Colorado,Colorado,1.022,200207,291375,166538968,4202,7733,12050
+136,Daniel J. Bradley,bradley_1200.jpg,Indiana State University,Indiana,0.914,200806,288854,210350356,2040,8416,13183
+137,Michael Allan Driscoll,driscoll_22180.jpg,Indiana University of Pennsylvania,Pennsylvania,0.986,201207,282064,231772504,549,9470,14534
+138,John E. Christensen,christensen_2160.jpg,University of Nebraska at Omaha,Nebraska,0.905,200706,275475,227197777,2406,6750,15227
+139,Carolyn Meyers,meyers_22181.jpg,Jackson State University,Mississippi,0.868,201101,270500,172091807,1096,6602,9508
+140,Paul Ferguson,ferguson_1556.jpg,University of Maine,Maine,0.977,201107,250000,307187000,915,10606,11286
+141,Joel E. Anderson,anderson_179.jpg,University of Arkansas at Little Rock,Arkansas,0.875,200301,219466,191978851,4018,7432,11645
